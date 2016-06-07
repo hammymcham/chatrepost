@@ -1,0 +1,23 @@
+body{
+    background-color:darkslategrey;
+
+}
+.post{
+    width:75%;
+    margin: 0 auto;
+    background:black;
+}
+.connah{
+    width:75%;
+    margin:0 auto;
+    background-color:slategrey;
+    padding-left:  10px;
+    color:white;
+    font-size: 12px;
+    overflow:scroll
+}
+#pok{
+    color:white;
+    margin:0 auto;
+    text-align: center;
+}
